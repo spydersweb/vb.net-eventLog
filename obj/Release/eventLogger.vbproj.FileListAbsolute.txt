@@ -1,0 +1,16 @@
+Z:\PROG\eventLog\eventLogger\bin\Release\eventLogger.dll
+Z:\PROG\eventLog\eventLogger\bin\Release\eventLogger.pdb
+Z:\PROG\eventLog\eventLogger\bin\Release\eventLogger.xml
+Z:\PROG\eventLog\eventLogger\obj\Release\eventLogger.Resources.resources
+Z:\PROG\eventLog\eventLogger\obj\Release\eventLogger.vbproj.GenerateResource.Cache
+Z:\PROG\eventLog\eventLogger\obj\Release\eventLogger.dll
+Z:\PROG\eventLog\eventLogger\obj\Release\eventLogger.xml
+Z:\PROG\eventLog\eventLogger\obj\Release\eventLogger.pdb
+Z:\PROG\VS\eventLog\eventLogger\bin\Release\eventLogger.dll
+Z:\PROG\VS\eventLog\eventLogger\bin\Release\eventLogger.pdb
+Z:\PROG\VS\eventLog\eventLogger\bin\Release\eventLogger.xml
+Z:\PROG\VS\eventLog\eventLogger\obj\Release\eventLogger.Resources.resources
+Z:\PROG\VS\eventLog\eventLogger\obj\Release\eventLogger.vbproj.GenerateResource.Cache
+Z:\PROG\VS\eventLog\eventLogger\obj\Release\eventLogger.dll
+Z:\PROG\VS\eventLog\eventLogger\obj\Release\eventLogger.xml
+Z:\PROG\VS\eventLog\eventLogger\obj\Release\eventLogger.pdb
